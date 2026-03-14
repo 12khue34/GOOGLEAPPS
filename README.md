@@ -19,4 +19,20 @@ The "Paid" Advantage: Sentiment analysis reveals that paid apps have higher medi
 Size Constraints: Top-rated applications predominantly fall within the 2MB–20MB range, suggesting a correlation between technical optimization and user satisfaction.
 
 
-Medical and Family are the only categories that successfully sustain price points in the $30–$80 range. This indicates a "need-based" pricing power. Users perceive specialized medical tools or high-quality educational content as investments rather than discretionary spending, allowing developers to charge 4x to 8x the market average.
+📊 Key Insights & Visualizations
+
+  1. Market Distribution across Categories
+![App Distribution](Visuals/distriapps.png)
+*Insight: The market is dominated by Game and Family apps, suggesting high competition but proven demand in these sectors.*
+
+  2. Strategic Pricing Trends (Outliers Removed)
+![Pricing Trends](Visuals/pricing_trend_junks_removed.png)
+*Insight: Once "junk" apps are removed, most categories show a clear $10 psychological price ceiling, while Medical apps maintain a premium niche.*
+
+  3. Impact of Pricing on User Ratings
+![Rating vs Price](Visuals/ratingnprice.png)
+*Insight: Higher-priced apps do not guarantee better ratings; the highest density of 4.5+ star reviews stays within the free-to-$10 bracket.*
+
+  4. Technical Footprint vs. Product Quality
+![Rating vs Size](Visuals/ratingnsize1.png)
+*Insight: User satisfaction peaks for apps between 2MB and 20MB. Optimizing for a smaller file size is a key driver for higher user ratings.*
