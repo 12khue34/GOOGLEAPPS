@@ -19,7 +19,7 @@ The "Paid" Advantage: Sentiment analysis reveals that paid apps have higher medi
 Size Constraints: Top-rated applications predominantly fall within the 2MB–20MB range, suggesting a correlation between technical optimization and user satisfaction.
 
 
-📊 KVisualizations:
+📊 Visualizations:
 
   1. Market Distribution across Categories
 ![App Distribution](Visuals/appsdistributionn.png)
