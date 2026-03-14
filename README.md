@@ -22,7 +22,7 @@ Size Constraints: Top-rated applications predominantly fall within the 2MB–20M
 📊 Key Insights & Visualizations
 
   1. Market Distribution across Categories
-![App Distribution](Visuals/distriapps.png)
+![App Distribution](Visuals/appsdistribution.png)
 *Insight: The market is dominated by Game and Family apps, suggesting high competition but proven demand in these sectors.*
 
   2. Strategic Pricing Trends (Outliers Removed)
